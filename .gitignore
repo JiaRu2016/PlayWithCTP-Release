@@ -1,0 +1,6 @@
+config.h
+log
+.vscode/
+*.o
+flow_md/
+flow_trader/
